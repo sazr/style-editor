@@ -1,0 +1,25 @@
+{
+  "name": "style-editor",
+  "version": "1.0.0",
+  "description": "Dynamically create CSS ",
+  "main": "demo/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sazr/style-editor.git"
+  },
+  "keywords": [
+    "dynamic",
+    "css",
+    "runtime",
+    "responsive"
+  ],
+  "author": "samzielkeryner@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sazr/style-editor/issues"
+  },
+  "homepage": "https://github.com/sazr/style-editor#readme"
+}
